@@ -1,0 +1,11 @@
+python datatypes:
+Int: for representation of very long int value like:12344555666666665457891912 you have to use int inly in python3
+by default they will consider decimal number and 
+for representing it as binary or octel you have to represent it 
+like a=OB1111
+print(a) --> 15
+a=OO123
+print(a) --> 83
+a=ox10
+print(a) --> 16
+None , Numeric , Sequence, Range, Dictionary,
